@@ -1,4 +1,5 @@
-![logo completa branca](https://github.com/Re-Aprender/.github/assets/65189430/c611af9a-351f-4889-b65e-b7f19229576b)
+
+![banner](https://github.com/Re-Aprender/.github/assets/65189430/d76736c7-1061-4948-92ae-cf07ff46ae4d)
 
 # Re;Aprender
 
