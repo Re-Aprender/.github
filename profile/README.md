@@ -1,5 +1,5 @@
 
-![banner](https://github.com/Re-Aprender/.github/assets/65189430/d76736c7-1061-4948-92ae-cf07ff46ae4d)
+
 
 # Re;Aprender
 
